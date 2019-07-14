@@ -1,4 +1,4 @@
-# DDOS-ATTACK-TROJAN WIN 32
+# VIRUS-ATTACK-TROJAN WIN 32
 
 $ pkg update && pkg upgrade
 $ pkg install python2
