@@ -2,7 +2,7 @@
 
 $ pkg update && pkg upgrade
 $ pkg install python2
-$ pkg install mechanize
+$ pkg install mechanize ze
 $ pip2 install request
 $ pkg install git
 $ git clone https://github.com/kuroisoo09/virus-trojan cd DDOS-ATTACK-TROJAN
